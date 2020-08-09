@@ -4,7 +4,7 @@ int main(){
 
     int row=0,col=0;
     cout<<"Input row and column: ";
-    cin>>row>>col;
+    cin>> row>> col;
 
     cout<<"   ";
     for(int i=0;i<col-2;i++){
